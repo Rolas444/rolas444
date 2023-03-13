@@ -1,5 +1,5 @@
 # Hi, I'm a Full stack Developer
-Wellome to my Github
+Wellcome to my Github, feel free to explore
 
 ## 📝 Links
 
