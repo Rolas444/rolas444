@@ -29,7 +29,7 @@ Wellcome to my Github, feel free to explore
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle" /></code>
 </div>
 
-# Some contributions
+## Some contributions
 <!--
 **Rolas444/rolas444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
