@@ -1,4 +1,4 @@
-# Hi, I'm a Full stack Developer
+# Hi, I'm a Full stack developer
 Wellcome to my Github, feel free to explore
 
 ## Links
