@@ -11,7 +11,14 @@ Wellcome to my Github, feel free to explore
 
 ## Tech skills:
 <div align="center">
-	<img src="https://www.canva.com/design/DAFmySW5T68/IQKIGj6sE_HKOkemOkTfoA/view?utm_content=DAFmySW5T68&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" />
+	<div style="position: relative; width: 100%; height: 0; padding-top: 56.3415%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFmySW5T68&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFmySW5T68&#x2F;view?utm_content=DAFmySW5T68&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Diseño</a> de CrossTheRubicon
 <!-- 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" /></code>
