@@ -11,7 +11,8 @@ Wellcome to my Github, feel free to explore
 
 ## Tech skills:
 <div align="center">
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" /></code>
+	<img src="https://www.canva.com/design/DAFmySW5T68/IQKIGj6sE_HKOkemOkTfoA/view?utm_content=DAFmySW5T68&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" />
+<!-- 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS" /></code>
@@ -30,7 +31,7 @@ Wellcome to my Github, feel free to explore
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="Go" title="Go" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle" /></code> -->
 </div>
 
 ## Contributions
