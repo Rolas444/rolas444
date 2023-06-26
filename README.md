@@ -1,9 +1,13 @@
-# Hi, I'm a Full stack developer
+# Hi, My name is Rolando Ramirez
 Wellcome to my Github, feel free to explore
 
-## Links
+##Who I am?
+-I am a Full Stack Developer with over 6 years of experience in the technology sector, focused on specializing more and more in web development.
+##What do I do?
+-I am currently taking my first steps with Go (Golang). I have experience programming in Javascript, C#, and PHP. Right now, I am actively looking for a job in web development while I improve my English skills.
+##Where am I heading?
+-I aim to contribute my programming skills to the world of technology. Additionally, I strive to continue learning and innovating in software development tools. Most importantly, like any good professional, I aspire to make a living from what I am passionate about.
 
-- My Portfolio: https://rolas444.github.io/
 
 ## Tech skills:
 <div align="center">
