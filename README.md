@@ -1,6 +1,6 @@
 # Hi, My name is Rolando Ramirez
 Wellcome to my Github, feel free to explore
-### email: 7200ws@gmail.com
+### email: rolandosamuel.rq@gmail.com
 ### phone: (+51) 943808616
 ### <a href="https://www.linkedin.com/in/rolando-ramirez-hr90/">Linkedin</a>
 
