@@ -1,6 +1,6 @@
 # Hi, My name is Rolando Ramirez
 Wellcome to my Github, feel free to explore
-### <a href="mailto:rolandosamuel.rq@gmail.com" >E-mail</a> 
+### <a href="mailto:rolandosamuel.rq@gmail.com" target="_blank" >E-mail</a> 
 ### <a href="https://www.linkedin.com/in/rolando-ramirez-hr90/" target="_blank">Linkedin</a>
 ### <a href="https://rolas444.github.io/" target="_blank">Portfolio</a>
 
