@@ -16,6 +16,7 @@ Wellcome to my Github, feel free to explore
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rolas444&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rolas444&show_icons=true)
 	<!--<img src="https://n-ecommerce.s3.amazonaws.com/langs.png" /> -->
 <!-- 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
