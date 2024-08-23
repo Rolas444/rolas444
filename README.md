@@ -14,7 +14,6 @@ Wellcome to my Github, feel free to explore
 
 ## Tech skills:
 <div align="center">
-	<## Lenguajes más usados
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rolas444&layout=compact)
 	<!--<img src="https://n-ecommerce.s3.amazonaws.com/langs.png" /> -->
