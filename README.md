@@ -12,7 +12,7 @@ Wellcome to my Github, feel free to explore
 -I aim to contribute my programming skills to the world of technology. Additionally, I strive to continue learning and innovating in software development tools. Most importantly, like any good professional, I aspire to make a living from what I am passionate about.
 
 
-## Tech skills:
+
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rolas444&layout=compact)
