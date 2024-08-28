@@ -5,7 +5,7 @@ Wellcome to my Github, feel free to explore
 ### <a href="https://rolas444.github.io/" target="_blank">Portfolio</a>
 
 ## Who I am?
--I am a Full Stack web developer with over 6 years in the technology sector, focusing on further specializing in web development. I have worked with SCRUM, NodeJS, NextJS, .Net, SQL, NoSQL, AWS, Docker, and other technologies.
+-I am a web developer with experience in frontend and backend technologies in the fields of education, healthcare, retail sales, and finance. I have been certified as a technician in Computer Science and Informatics since 2012
 ## What do I do?
 -I am currently taking my first steps with Go (Golang). I have experience programming in Javascript, C#, and PHP. Right now, I am actively looking for a job in web development while I improve my English skills.
 ## Where am I heading?
