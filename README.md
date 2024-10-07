@@ -2,7 +2,6 @@
 Wellcome to my Github, feel free to explore
 ### <a href="mailto:rolandosamuel.rq@gmail.com" target="_blank" >E-mail</a> 
 ### <a href="https://www.linkedin.com/in/rolando-ramirez-hr90/" target="_blank">Linkedin</a>
-### <a href="https://rolas444.github.io/" target="_blank">Portfolio</a>
 
 ## Who I am?
 -I am a web developer with experience in frontend and backend technologies in the fields of education, healthcare, retail sales, and finance. I have been certified as a technician in Computer Science and Informatics since 2012
