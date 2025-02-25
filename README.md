@@ -19,5 +19,5 @@ Welcome to my Github, feel free to explore
 </div>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rolas444&theme=onedark&hide_border=true&border_radius=&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rolas444&layout=compact)
